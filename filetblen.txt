@@ -1,0 +1,2 @@
+%%%C frequency500_cn.txt=Frequency500=Chinese words by spoken frequency 500
+%%%B idioms300_cn.txt=Idioms300=300 most common Chinese idioms or chengyu
