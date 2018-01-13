@@ -1,2 +1,5 @@
+%%%A common_verbs100_cn.txt=verbs100=100 most common Chinese verbs
+%%%A animals33_cn.txt=Animals=33 learn some names for animals in Chinese
+%%%A food_menu90_cn.txt=food90=90 learn Chinese menu
 %%%C frequency500_cn.txt=Frequency500=Chinese words by spoken frequency 500
 %%%B idioms300_cn.txt=Idioms300=300 most common Chinese idioms or chengyu
