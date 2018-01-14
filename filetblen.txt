@@ -1,6 +1,11 @@
-%%%A common_verbs100_cn.txt=verbs100=100 most common Chinese verbs
 %%%A animals33_cn.txt=Animals=33 learn some names for animals in Chinese
-%%%A food_menu90_cn.txt=food90=90 learn Chinese menu
+%%%A fooddrink_cn.txt=food_drink=40 food and drink
+%%%B food_menu90_cn.txt=food90=90 learn Chinese menu
+%%%B numbers_cn.txt=numbers=80 learn Chinese numbers
+%%%B daily120_cn.txt=daily120=120 daily used short sentences
 %%%B restaurant279_cn.txt=Restaurant=ordering food in China with 270 words for fruits and vegetables
 %%%C frequency500_cn.txt=Frequency500=Chinese words by spoken frequency 500
+%%%B common_verbs100_cn.txt=verbs100=100 most common Chinese verbs
 %%%B idioms300_cn.txt=Idioms300=300 most common Chinese idioms or chengyu
+%%%B business267_cn.txt=business=267 Chinese for advanced business and economics
+%%%D sentences2600_cn.txt=sentences=2609 Chinese sentences
