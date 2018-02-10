@@ -2,6 +2,7 @@
 %%%A fooddrink_cn.txt=food_drink=40 food and drink
 %%%B food_menu90_cn.txt=food90=90 learn Chinese menu
 %%%B numbers_cn.txt=numbers=80 learn Chinese numbers
+%%%B measure_words_cn.txt=measure words=48 Some common measure classifiers
 %%%B daily120_cn.txt=daily120=120 daily used short sentences
 %%%B restaurant279_cn.txt=Restaurant=ordering food in China with 270 words for fruits and vegetables
 %%%C frequency500_cn.txt=Frequency500=Chinese words by spoken frequency 500
@@ -9,3 +10,21 @@
 %%%B idioms300_cn.txt=Idioms300=300 most common Chinese idioms or chengyu
 %%%B business267_cn.txt=business=267 Chinese for advanced business and economics
 %%%D sentences2600_cn.txt=sentences=2609 Chinese sentences
+%%%B yct1_cn.txt=YCT 1=82 the Youth Chinese Test YCT 1 for children under 15.
+%%%B yct2_cn.txt=YCT 2=147 the Youth Chinese Test YCT 2 for children under 15.
+%%%B yct3_cn.txt=YCT 3=307 the Youth Chinese Test YCT 3 for children under 15.
+%%%B yct4_cn.txt=YCT 4=600 the Youth Chinese Test YCT 4 for children under 15.
+%%%B dli1_cn.txt=DLI 1=182 DLI Unit 1, Defense Language Institute students Lesson 2~6.
+%%%B dli2_cn.txt=DLI 2=261 DLI Unit 2, Defense Language Institute students Lesson 7~11.
+%%%B dli3_cn.txt=DLI 3=302 DLI Unit 3, Defense Language Institute students Lesson 13~18.
+%%%B dli4_cn.txt=DLI 4=272 DLI Unit 4, Defense Language Institute students Lesson 19~24.
+%%%B dli5_cn.txt=DLI 5=328 DLI Unit 5, Defense Language Institute students Lesson 25~30.
+%%%B dli6_cn.txt=DLI 6=385 DLI Unit 6, Defense Language Institute students Lesson 31~36.
+%%%B dli7_cn.txt=DLI 7=424 DLI Unit 7, Defense Language Institute students Lesson 37~42.
+%%%B dli8_cn.txt=DLI 8=503 DLI Unit 8, Defense Language Institute students Lesson 43~48.
+%%%B dli9_cn.txt=DLI 9=704 DLI Unit 9, Defense Language Institute students Lesson 49~54.
+%%%B dli10_cn.txt=DLI 10=849 DLI Unit 10, Defense Language Institute students Lesson 55~59.
+%%%B dli11_cn.txt=DLI 11=1007 DLI Unit 11, Defense Language Institute students Lesson 61~65.
+%%%B dli12_cn.txt=DLI 12=967 DLI Unit 12, Defense Language Institute students Lesson 67~71.
+%%%B dli13_cn.txt=DLI 13=681 DLI Unit 13, Defense Language Institute students Lesson 73~77.
+%%%B dli14_cn.txt=DLI 14=321 DLI Unit 14, Defense Language Institute students Lesson 78~83.
