@@ -2,6 +2,7 @@
 %%%A fooddrink_cn.txt=food_drink=40 food and drink
 %%%B food_menu90_cn.txt=food90=90 learn Chinese menu
 %%%B numbers_cn.txt=numbers=80 learn Chinese numbers
+%%%B clothes_cn.txt=Clothes=42 Learn the names of different clothes and accessories.
 %%%B measure_words_cn.txt=measure words=48 Some common measure classifiers
 %%%B daily120_cn.txt=daily120=120 daily used short sentences
 %%%B restaurant279_cn.txt=Restaurant=ordering food in China with 270 words for fruits and vegetables
@@ -9,6 +10,8 @@
 %%%B common_verbs100_cn.txt=verbs100=100 most common Chinese verbs
 %%%B idioms300_cn.txt=Idioms300=300 most common Chinese idioms or chengyu
 %%%B business267_cn.txt=business=267 Chinese for advanced business and economics
+%%%B economics_cn.txt=Finance and Economics=45 A business course to read the economics newspaper.
+%%%B historical_geography_cn.txt=Historical Geography=77 the geography and ancient China understanding the romance of the three kingdoms.
 %%%D sentences2600_cn.txt=sentences=2609 Chinese sentences
 %%%B yct1_cn.txt=YCT 1=82 the Youth Chinese Test YCT 1 for children under 15.
 %%%B yct2_cn.txt=YCT 2=147 the Youth Chinese Test YCT 2 for children under 15.
