@@ -12,6 +12,7 @@
 %%%B idioms300_cn.txt=Idioms300=300 most common Chinese idioms or chengyu
 %%%B business267_cn.txt=business=267 Chinese for advanced business and economics
 %%%B economics_cn.txt=Finance and Economics=45 A business course to read the economics newspaper.
+%%%B bhuddism_cn.txt=meditation and bhuddism=39 Learn the names of meditation and bhuddism
 %%%B historical_geography_cn.txt=Historical Geography=77 the geography and ancient China understanding the romance of the three kingdoms.
 %%%D sentences2600_cn.txt=sentences=2609 Chinese sentences
 %%%B yct1_cn.txt=YCT 1=82 the Youth Chinese Test YCT 1 for children under 15.
