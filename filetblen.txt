@@ -3,6 +3,7 @@
 %%%B food_menu90_cn.txt=food90=90 learn Chinese menu
 %%%B numbers_cn.txt=numbers=80 learn Chinese numbers
 %%%B clothes_cn.txt=Clothes=42 Learn the names of different clothes and accessories.
+%%%B body_part_tw.txt=body parts=43 Learn the names of body parts.
 %%%B measure_words_cn.txt=measure words=48 Some common measure classifiers
 %%%B daily120_cn.txt=daily120=120 daily used short sentences
 %%%B restaurant279_cn.txt=Restaurant=ordering food in China with 270 words for fruits and vegetables
